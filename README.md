@@ -4,6 +4,8 @@
 [![Tech: AI/ML](https://img.shields.io/badge/Tech-AI%2FML-blue.svg)](https://github.com/topics/machine-learning)
 [![Role: SOC Analyst](https://img.shields.io/badge/Role-SOC%20Analyst-green.svg)](https://github.com/topics/security-operations-center)
 
+Protoype Link : [Demo Link](https://ai.studio/apps/d48a8fad-b334-42f0-b2ec-21cdbc91ea26)
+
 An industry-oriented cybersecurity project showcasing AI-driven threat detection, real-time monitoring, and anomaly classification for network traffic. This project acts as a comprehensive "Proof of Work" for students and aspiring security engineers.
 
 ---
@@ -103,20 +105,6 @@ AI-Cyber-Threat-Detection/
 - **Full-Stack Integration**: Connecting a React frontend to a custom Express backend.
 - **Cybersecurity Fundamentals**: Learning about common attack vectors (DoS, Brute Force) and how they manifest in data.
 - **UI/UX Design**: Building a high-performance, themed dashboard for professional use cases.
-
----
-
-## 💬 Predicted Interview Questions
-**Q: Why use Random Forest for this project?**  
-*A: Random Forest is excellent for structured data (like network logs) because it handles non-linear relationships well and is less prone to overfitting compared to single decision trees.*
-
-**Q: How would you scale this for a real corporate network?**  
-*A: I would integrate a streaming platform like Apache Kafka to handle high-velocity data and deploy the model using a scalable microservice architecture (e.g., Kubernetes).*
-
----
-
-## 📄 License
-This project is licensed under the Apache-2.0 License.
 
 ---
 *Built with ❤️ for the Cybersecurity Community.*
